@@ -1,0 +1,54 @@
+#header-div{
+    padding: 1rem;  
+    margin-top: 5rem;
+    }
+ion-icon {
+    font-size: 80px;
+    margin-left: 1rem;
+}
+#dep{
+    font-size: 100%;
+    margin-right: 6rem;
+    margin-top: -4.6rem;
+}
+#header-div ul{
+    float: right;
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    margin-top: 2%;
+    font-size: 120%;
+    padding-right: 5%;
+    text-align: right;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#header-div p{
+    color: rgb(189, 187, 187);
+    margin-left: 6.3rem;
+    margin-top: -2rem;
+}
+header ul {
+    margin-top: 3rem;
+}
+header ul li{
+    padding: 1rem;
+    list-style-type: none;
+}
+header ul li ion-icon{
+    font-size: 50px;
+}
+header ul li p{
+    margin-left: 5rem;
+    margin-top: -2rem;
+}
+body{
+    background-color: #D80032;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+
+
+
+

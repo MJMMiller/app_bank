@@ -9,6 +9,7 @@ ion-icon {
 }
 #dep{
     font-size: 120%;
+    margin-right: 10rem;
 }
 #header-div ul{
     float: right;
@@ -30,61 +31,52 @@ nav{
 }
 nav h2 {
     display: flex;
-    margin-left: 7rem;
-    margin-top: -2.4rem;
-}
-nav h3{
-    display: flex;
-    margin-left: 2rem;
-    padding-top: 1rem;
-}
-nav ion-icon {
-    margin-left: 1.5rem;
+    margin-left: 7.5rem;
+    margin-top: 0rem;
 }
 nav img{
     height: 13rem;
-    width: 20rem;
+    width: 13rem;
     margin: 1rem 2rem;
+    margin-left: 5.5rem;
     border-radius: 1rem;
 }
-nav ul{
-    display: flex;
-    padding-bottom: 1rem;
-    margin-left: 1.5rem;
-}
-nav ul li{
-    display: flex;
-    margin-right: 2rem;
-
-}
 article{
+    margin-top: 2rem;
     background-color: #ffffff;
-    height: 50%;
+    height: 60%;
     border-top-left-radius: 10%;
     border-top-right-radius: 10%;
     color: #D80032;
-    padding-left: 2rem;
+    padding-left: 0rem;
     padding-top: 2rem;
 }
-article h2{
-    margin-left: 1rem;
+article ion-segment{
+    margin-top: 1rem;
 }
-#h5{
-    display: flex;
-    color: green;
-    margin-left: 15rem;
-    margin-top: -2.5rem;
+article ion-label{
+    font-size: 1.4rem;
 }
-article h4{
+article div{
+    margin-top: 2rem;
+    margin-left: 3rem;
+}
+article div h2{
+    color: darkgrey;
+}
+article div h5{
     color: black;
 }
-article p{
-    color: #B4B4B3;
+button{
+    height: 5rem;
+    width: 20rem;
+    border-radius: 2rem;
+    margin-left: 2.2rem;
+    margin-top: 0.5rem;
+    font-size: 1.5rem;
+    background-color: #D80032;
 }
-#article-div{
-    margin-top: 1.5rem;
-    margin-left: 1rem;
-}
+
 
 
 

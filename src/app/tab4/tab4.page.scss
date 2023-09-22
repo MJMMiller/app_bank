@@ -1,0 +1,105 @@
+#header-div{
+    padding: 1rem;  
+    margin-top: 1rem;
+    }
+ion-icon {
+    font-size: 40px;
+    margin-left: 1rem;
+    
+}
+#dep{
+    font-size: 120%;
+    margin-right: 6rem;
+    margin-top: -3rem;
+}
+#header-div ul{
+    float: right;
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    margin-top: 2%;
+    font-size: 120%;
+    padding-right: 5%;
+    text-align: right;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+    background-color: #D80032;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+nav{
+    background-color: #D80032;
+}
+nav ion-icon{
+    font-size: 180px;
+    margin-left: 6.2rem;
+}
+nav h2 {
+    display: flex;
+    margin-left: 10rem;
+    margin-top: 0rem;
+}
+nav img{
+    height: 13rem;
+    width: 13rem;
+    margin: 1rem 2rem;
+    margin-left: 5.5rem;
+    border-radius: 1rem;
+}
+article{
+    margin-top: 2rem;
+    background-color: #ffffff;
+    height: 60%;
+    border-top-left-radius: 10%;
+    border-top-right-radius: 10%;
+    color: #D80032;
+    padding-left: 0rem;
+    padding-top: 3rem;
+}
+article div{
+    margin-top: 2rem;
+    margin-left: 6rem;
+}
+#icon{
+    display: flex;
+    flex-direction: column;
+    margin-top: -8rem;
+    margin-left: -5rem;
+}
+#qr{
+    margin-top: 2rem;
+}
+article div h2{
+    color: darkgrey;
+}
+article div h5{
+    color: black;
+    margin-top: -0.6rem;
+}
+button{
+    height: 5rem;
+    width: 20rem;
+    border-radius: 2rem;
+    margin-left: 2.2rem;
+    margin-top: 2rem;
+    font-size: 1.5rem;
+    background-color: #D80032;
+}
+#fin{
+    height: 5rem;
+    width: 20rem;
+    border-radius: 2rem;
+    margin-left: 2.2rem;
+    margin-top: -0.5rem;
+    font-size: 1.5rem;
+    color: rgb(128, 127, 127);
+    background-color: transparent;
+}
+
+
+
+
+
+
+
+
